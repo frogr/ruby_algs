@@ -1,0 +1,1 @@
+i'm learning ruby and so i'm writing a bunch of algorithms that i've solved in other languages but in ruby so i get familiar with the language. this will get updated and really doesn't mean anything but it's nice to get commit points for working on code, it fuels my need for validation and provides tons of dopamine
